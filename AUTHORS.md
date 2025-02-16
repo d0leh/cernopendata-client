@@ -11,5 +11,6 @@ The list of contributors in alphabetical order:
 - [Joud Masoud](https://github.com/joudmas)
 - [Mohammad Doleh](https://github.com/d0leh)
 - [Pablo Saiz](https://github.com/psaiz)
+- [Mohammad Doleh](https://github.com/d0leh)
 - [Parth Shandilya](https://github.com/ParthS007)
 - [Tibor Simko](https://orcid.org/0000-0001-7202-5803)
